@@ -1,0 +1,6 @@
+{
+  "name": "Montante Stat",
+  "description": "Analyse statistique quotidienne des paris sportifs et suivi de montantes pour optimiser vos probabilités de gain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Montante Stat</string>
+    <string name="nav_daily_picks">Options du Jour</string>
+    <string name="nav_montantes">Montantes</string>
+    <string name="nav_analyzer">Analyseur</string>
+    <string name="hero_subtitle">Sélection statistique haute probabilité pour vos paliers de montante</string>
+    <string name="refresh_picks">Actualiser les matchs</string>
+    <string name="add_to_montante">Engager en montante</string>
+    <string name="new_montante">Nouvelle montante</string>
+    <string name="no_active_campaign">Aucune montante active</string>
+    <string name="simulator_title">Simulateur de Paliers</string>
+    <string name="analyzer_title">Analyseur Poisson &amp; Forme</string>
+</resources>
